@@ -1,5 +1,4 @@
-# TransdevInc
-An Online Management Information System with SMS Notification for Transformational Development Inc.
+# An Online Management Information System with SMS Notification for Transformational Development Inc.
 <br/>
 This is a proposed thesis capstone project by De Vera, Catherine Kate P. et al
 <br/>
@@ -18,7 +17,7 @@ Zaldivar, Edmon R. - Programmer/Front-End
 <h1>Technologies</h1>
 <br/>
 
-Front End
+<b>Front End</b>
 
 Bootstrap 
 
@@ -29,7 +28,7 @@ CSS
 Javascript/Jquery
 
 
-Backend
+<b>Backend</b>
 
 PHP
 
