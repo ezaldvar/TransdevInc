@@ -1,7 +1,12 @@
 # TransdevInc
 An Online Management Information System with SMS Notification for Transformational Development Inc.
+<br/>
+This is a proposed thesis capstone project by De Vera, Catherine Kate P. et al
+<br/>
 
-<b>Team</b>
+<h1>Team</h1>
+<br/>
+<br/>
 De Vera, Catherine Kate P - Researcher
 
 Esguerra, John Michael - Researcher
@@ -10,7 +15,8 @@ Tañagras, Roanne Marie S. - Research/Analyst
 
 Zaldivar, Edmon R. - Programmer/Front-End
 
-<b>Technologies</b>
+<h1>Technologies</h1>
+<br/>
 
 Front End
 
